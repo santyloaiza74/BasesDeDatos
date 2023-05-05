@@ -1,0 +1,98 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+body{
+    background: white;
+    color: black;
+}
+#contenedorpp{
+    width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+header{
+    width: 746px;
+    height: 610px;
+    background: white;
+    border-style: solid;
+    
+}
+header h1{
+    width: 150px;
+    height: 100px;
+    background: white;
+    text-align: center;
+    line-height: 110px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-style: solid;
+}
+nav{
+    width: 500px;
+    height: 50px;
+    background: rgb(177, 177, 177);
+    margin-left: 250px;
+    margin-top: -550px;
+}
+nav h3{
+    text-align: center;
+    line-height: 50px;
+    font-size: 25px;
+}
+#asd{
+    width: 745px;
+    height: 480px;
+    background: rgb(203, 203, 203);
+    margin-left: 5px;
+    text-align: center;
+    margin-top: 10px;
+}
+#download{
+    width: 727px;
+    height: 200px;
+    background: rgb(69, 67, 67);
+    margin-left: 10px;
+    margin-top: -430px;
+}
+#download h2{
+    text-align: right;
+    line-height: 350px;
+}
+#save{
+    width: 230px;
+    height: 200px;
+    background: gray;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#save h2{
+    text-align: right;
+    line-height: 350px;
+    font-size: medium;
+}
+#sosimple{
+    width: 240px;
+    height: 200px;
+    background: gray;
+    margin-left: 250px;
+    margin-top: -200px;
+}
+#sosimple h2{
+    text-align: right;
+    line-height: 350px;
+    font-size: medium;
+}
+#cloud{
+    width: 240px;
+    height: 200px;
+    background: gray;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+#cloud h2{
+    text-align: right;
+    line-height: 350px;
+    font-size: medium;
+}
