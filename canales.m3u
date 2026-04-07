@@ -1,0 +1,34 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+
+#EXTINF:-1 tvg-id="Win.Sports.HD.co" tvg-name="Win Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241" group-title="DEPORTIVO",Win Sports + HD
+http://181.78.79.131:8000/play/a0n1
+
+#EXTINF:-1 tvg-id="Win.Sports.HD.co" tvg-name="Win Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241" group-title="DEPORTIVO",Win Sports HD
+http://217.26.190.76:8888/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-id="Espn.1.Col.co" tvg-name="Espn 1 (Col)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTIVO",Espn 1 (Col)
+http://181.78.14.26:4000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="Directv.Sports.Col.co" tvg-name="DSports (Directv Sports)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DEPORTIVO",DSports
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
+
+#EXTINF:-1 tvg-id="Caracol.HD.co" tvg-name="Caracol HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="ENTRETENIMIENTO",Caracol HD
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="RCN.HD.co" tvg-name="RCN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117" group-title="ENTRETENIMIENTO",RCN HD
+http://181.78.79.131:8000/play/a0l4
+
+#EXTINF:-1 tvg-id="Señal.Colombia.co" tvg-name="Señal Colombia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Se%C3%B1al_Colombia_%282005%29.svg/revision/latest/scale-to-width-down/69?cb=20220402110200" group-title="CULTURA",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL8
+
+#EXTINF:-1 tvg-id="Citytv.co" tvg-name="Citytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Citytv2025.png/330px-Citytv2025.png" group-title="PELICULAS Y SERIES",Citytv
+http://190.60.49.242:4000/play/a0q0/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/330px-CinecanalLA.png" group-title="PELICULAS Y SERIES",Cinecanal
+http://181.78.79.131:8000/play/a0pp
+
+#EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png" group-title="PELICULAS Y SERIES",Animal Planet
+http://181.78.8.199:8000/play/a0by/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.ARG.co" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/TNT_Sports_%282023%29.svg/revision/latest/scale-to-width-down/78?cb=20230407001905" group-title="DEPORTIVO",TNT Sports
+http://38.250.229.23:8000/play/a0r4
