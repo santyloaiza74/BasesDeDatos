@@ -341,7 +341,6 @@ http://190.60.49.242:4000/play/a0q0/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.ARG.co" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/TNT_Sports_%282023%29.svg/revision/latest/scale-to-width-down/78?cb=20230407001905" group-title="DEPORTIVO",TNT Sports
 http://38.250.229.23:8000/play/a0r4
 
-
 #EXTINF:-1,Cristovision
 http://190.102.123.28:8097/play/a0dd/index.m3u8
 #EXTINF:-1,MUZZIK
